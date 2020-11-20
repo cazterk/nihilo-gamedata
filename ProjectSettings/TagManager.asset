@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Enemy
+  - Killable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Obstacle
+  - Entity
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundL
+    uniqueID: 1704513185
+    locked: 0
+  - name: MiddleL
+    uniqueID: 2803148947
+    locked: 0
+  - name: ForegroundL
+    uniqueID: 1089072859
+    locked: 0
+  - name: Entity
+    uniqueID: 2770542119
+    locked: 0
+  - name: UI
+    uniqueID: 3007737307
+    locked: 0
